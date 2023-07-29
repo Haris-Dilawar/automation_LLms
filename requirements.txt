@@ -1,0 +1,6 @@
+pandas
+langchain
+openai
+regex
+numpy
+python-docx
