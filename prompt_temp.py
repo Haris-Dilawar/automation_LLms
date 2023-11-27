@@ -11,7 +11,7 @@ from train_ex import examples
 from langchain import LLMChain
 llm = OpenAI(
     temperature=0,
-    openai_api_key="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",
+    openai_api_key="YOUR_OPENAI_KEY",
     model_name="gpt-3.5-turbo-16k" # can be used with llms like 'gpt-3.5-turbo'
 )
 
